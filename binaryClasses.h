@@ -1,3 +1,7 @@
+// Bryan Xie
+// byx150030@utdallas.edu
+// CS 3377.502
+
 #ifndef BINARYCLASSES_H
 #define BINARYCLASSES_H
 
