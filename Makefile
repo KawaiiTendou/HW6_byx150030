@@ -1,6 +1,6 @@
 # Bryan Xie
 # byx150030@utdallas.edu
-#CS 3377.502
+# CS 3377.502
 
 CXX = g++
 CXXFLAGS = -Wall -g 
